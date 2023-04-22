@@ -16,6 +16,7 @@
 		506DAEC229F48945001B0D12 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 506DAEC129F48945001B0D12 /* landmarkData.json */; };
 		506DAEC429F48986001B0D12 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506DAEC329F48986001B0D12 /* Landmark.swift */; };
 		506DAEC629F48C4C001B0D12 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506DAEC529F48C4C001B0D12 /* ModelData.swift */; };
+		506DAECB29F48E62001B0D12 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506DAECA29F48E62001B0D12 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		506DAEC129F48945001B0D12 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		506DAEC329F48986001B0D12 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		506DAEC529F48C4C001B0D12 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		506DAECA29F48E62001B0D12 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				50204ABD29F2EB3E0066496B /* ContentView.swift */,
 				50204AC929F2F2110066496B /* CircleImage.swift */,
 				50204ACB29F2F3C10066496B /* MapView.swift */,
+				506DAECA29F48E62001B0D12 /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				50204ACC29F2F3C10066496B /* MapView.swift in Sources */,
 				50204ABC29F2EB3E0066496B /* LandmarksApp.swift in Sources */,
 				50204ACA29F2F2110066496B /* CircleImage.swift in Sources */,
+				506DAECB29F48E62001B0D12 /* LandmarkRow.swift in Sources */,
 				506DAEC429F48986001B0D12 /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
