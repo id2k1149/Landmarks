@@ -16,7 +16,13 @@ struct ContentView: View {
     }
     
     var body: some View {
-        LandmarkList()
+        TabView(selection: $selection) {
+            CategoryHome()
+                .tag(Tab.featured)
+            
+            LandmarkList()
+                .tag(Tab.list)
+        }
     }
 }
 
