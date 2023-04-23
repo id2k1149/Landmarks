@@ -33,6 +33,7 @@
 		508A115629F56E0600AC097C /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A115229F56E0600AC097C /* HikeView.swift */; };
 		508A115829F5744800AC097C /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A115729F5744800AC097C /* CategoryHome.swift */; };
 		508A115B29F5766300AC097C /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A115A29F5766300AC097C /* CategoryRow.swift */; };
+		508A115D29F5783B00AC097C /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A115C29F5783B00AC097C /* CategoryItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		508A115229F56E0600AC097C /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		508A115729F5744800AC097C /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		508A115A29F5766300AC097C /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
+		508A115C29F5783B00AC097C /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 			children = (
 				508A115729F5744800AC097C /* CategoryHome.swift */,
 				508A115A29F5766300AC097C /* CategoryRow.swift */,
+				508A115C29F5783B00AC097C /* CategoryItem.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				508A115329F56E0600AC097C /* GraphCapsule.swift in Sources */,
 				50204ACC29F2F3C10066496B /* MapView.swift in Sources */,
 				506DAED129F4BF98001B0D12 /* FavoriteButton.swift in Sources */,
+				508A115D29F5783B00AC097C /* CategoryItem.swift in Sources */,
 				508A115529F56E0600AC097C /* HikeDetail.swift in Sources */,
 				508A114029F5623300AC097C /* HexagonParameters.swift in Sources */,
 				508A114D29F56D7200AC097C /* Hike.swift in Sources */,
