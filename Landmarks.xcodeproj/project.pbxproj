@@ -36,6 +36,7 @@
 		508A115D29F5783B00AC097C /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A115C29F5783B00AC097C /* CategoryItem.swift */; };
 		508A115F29F57E2A00AC097C /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A115E29F57E2A00AC097C /* Profile.swift */; };
 		508A116229F57EB400AC097C /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A116129F57EB400AC097C /* ProfileHost.swift */; };
+		508A116429F57F4500AC097C /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A116329F57F4500AC097C /* ProfileSummary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		508A115C29F5783B00AC097C /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		508A115E29F57E2A00AC097C /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		508A116129F57EB400AC097C /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
+		508A116329F57F4500AC097C /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				508A116129F57EB400AC097C /* ProfileHost.swift */,
+				508A116329F57F4500AC097C /* ProfileSummary.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				506DAED129F4BF98001B0D12 /* FavoriteButton.swift in Sources */,
 				508A115D29F5783B00AC097C /* CategoryItem.swift in Sources */,
 				508A115529F56E0600AC097C /* HikeDetail.swift in Sources */,
+				508A116429F57F4500AC097C /* ProfileSummary.swift in Sources */,
 				508A114029F5623300AC097C /* HexagonParameters.swift in Sources */,
 				508A116229F57EB400AC097C /* ProfileHost.swift in Sources */,
 				508A114D29F56D7200AC097C /* Hike.swift in Sources */,
