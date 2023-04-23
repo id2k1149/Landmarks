@@ -116,8 +116,8 @@
 			isa = PBXGroup;
 			children = (
 				506DAEC329F48986001B0D12 /* Landmark.swift */,
-				506DAEC529F48C4C001B0D12 /* ModelData.swift */,
 				508A114C29F56D7200AC097C /* Hike.swift */,
+				506DAEC529F48C4C001B0D12 /* ModelData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
