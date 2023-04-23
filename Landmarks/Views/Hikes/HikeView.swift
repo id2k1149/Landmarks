@@ -9,7 +9,7 @@ import SwiftUI
 
 extension AnyTransition {
     static var moveAndFade: AnyTransition {
-        AnyTransition.slide
+        AnyTransition.move(edge: .trailing)
     }
 }
 
