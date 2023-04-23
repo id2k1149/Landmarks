@@ -24,6 +24,7 @@
 		508A114229F563D800AC097C /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A114129F563D800AC097C /* BadgeBackground.swift */; };
 		508A114429F5697700AC097C /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A114329F5697700AC097C /* BadgeSymbol.swift */; };
 		508A114629F56A5E00AC097C /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A114529F56A5E00AC097C /* RotatedBadgeSymbol.swift */; };
+		508A114829F56ACF00AC097C /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A114729F56ACF00AC097C /* Badge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		508A114129F563D800AC097C /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		508A114329F5697700AC097C /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		508A114529F56A5E00AC097C /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
+		508A114729F56ACF00AC097C /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				508A114129F563D800AC097C /* BadgeBackground.swift */,
 				508A114329F5697700AC097C /* BadgeSymbol.swift */,
 				508A114529F56A5E00AC097C /* RotatedBadgeSymbol.swift */,
+				508A114729F56ACF00AC097C /* Badge.swift */,
 				506DAED329F4C0CE001B0D12 /* Landmarks */,
 				506DAED229F4C08A001B0D12 /* Helpers */,
 			);
@@ -218,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50204ABE29F2EB3E0066496B /* ContentView.swift in Sources */,
+				508A114829F56ACF00AC097C /* Badge.swift in Sources */,
 				506DAEC629F48C4C001B0D12 /* ModelData.swift in Sources */,
 				50204ACC29F2F3C10066496B /* MapView.swift in Sources */,
 				506DAED129F4BF98001B0D12 /* FavoriteButton.swift in Sources */,
