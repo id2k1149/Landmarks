@@ -26,7 +26,8 @@ struct HikeView: View {
                 Spacer()
 
                 Button {
-                    withAnimation(.easeInOut(duration: 4)) {
+                    withAnimation {
+//                    withAnimation(.easeInOut(duration: 4)) {
                         showDetail.toggle()
                     }
                 } label: {
