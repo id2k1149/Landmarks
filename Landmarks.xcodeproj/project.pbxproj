@@ -20,6 +20,7 @@
 		506DAECD29F49B9C001B0D12 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506DAECC29F49B9C001B0D12 /* LandmarkList.swift */; };
 		506DAECF29F4A26C001B0D12 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506DAECE29F4A26C001B0D12 /* LandmarkDetail.swift */; };
 		506DAED129F4BF98001B0D12 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506DAED029F4BF98001B0D12 /* FavoriteButton.swift */; };
+		508A114029F5623300AC097C /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A113F29F5623300AC097C /* HexagonParameters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		506DAECC29F49B9C001B0D12 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		506DAECE29F4A26C001B0D12 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		506DAED029F4BF98001B0D12 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		508A113F29F5623300AC097C /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				50204ABD29F2EB3E0066496B /* ContentView.swift */,
+				508A113F29F5623300AC097C /* HexagonParameters.swift */,
 				506DAED329F4C0CE001B0D12 /* Landmarks */,
 				506DAED229F4C08A001B0D12 /* Helpers */,
 			);
@@ -209,6 +212,7 @@
 				506DAEC629F48C4C001B0D12 /* ModelData.swift in Sources */,
 				50204ACC29F2F3C10066496B /* MapView.swift in Sources */,
 				506DAED129F4BF98001B0D12 /* FavoriteButton.swift in Sources */,
+				508A114029F5623300AC097C /* HexagonParameters.swift in Sources */,
 				506DAECD29F49B9C001B0D12 /* LandmarkList.swift in Sources */,
 				506DAECF29F4A26C001B0D12 /* LandmarkDetail.swift in Sources */,
 				50204ABC29F2EB3E0066496B /* LandmarksApp.swift in Sources */,
