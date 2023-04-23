@@ -30,6 +30,7 @@ struct LandmarkList_Previews: PreviewProvider {
             id: \.self) { deviceName in
                 LandmarkList()
                     .previewDevice(PreviewDevice(rawValue: deviceName))
+                    .previewDisplayName(deviceName)
         }
     }
 }
