@@ -38,6 +38,11 @@ struct LandmarkDetail: View {
                 
                 Text(landmark.state)
                     .font(.caption)
+                
+                Divider()
+                
+                MapView(coordinate: landmark.locationCoordinate)
+                    .scaledToFit()
             }
             .padding(16)
         }
