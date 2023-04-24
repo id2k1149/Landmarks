@@ -40,6 +40,7 @@
 		508A116629F57FC000AC097C /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508A116529F57FC000AC097C /* HikeBadge.swift */; };
 		50CF2F1C29F6B75D00289CBB /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F1B29F6B75D00289CBB /* ProfileEditor.swift */; };
 		50CF2F1F29F6BB4000289CBB /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F1E29F6BB4000289CBB /* PageViewController.swift */; };
+		50CF2F2129F6BD0600289CBB /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F2029F6BD0600289CBB /* FeatureCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 		508A116529F57FC000AC097C /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		50CF2F1B29F6B75D00289CBB /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		50CF2F1E29F6BB4000289CBB /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		50CF2F2029F6BD0600289CBB /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -230,6 +232,7 @@
 			isa = PBXGroup;
 			children = (
 				50CF2F1E29F6BB4000289CBB /* PageViewController.swift */,
+				50CF2F2029F6BD0600289CBB /* FeatureCard.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				508A115F29F57E2A00AC097C /* Profile.swift in Sources */,
 				50204ABE29F2EB3E0066496B /* ContentView.swift in Sources */,
 				508A115829F5744800AC097C /* CategoryHome.swift in Sources */,
+				50CF2F2129F6BD0600289CBB /* FeatureCard.swift in Sources */,
 				508A115429F56E0600AC097C /* HikeGraph.swift in Sources */,
 				508A114829F56ACF00AC097C /* Badge.swift in Sources */,
 				506DAEC629F48C4C001B0D12 /* ModelData.swift in Sources */,
