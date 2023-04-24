@@ -13,6 +13,11 @@ struct ProfileHost: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 20) {
+            HStack {
+                Spacer()
+                EditButton()
+            }
+            
             ProfileSummary(profile: draftProfile)
         }
         .padding()
