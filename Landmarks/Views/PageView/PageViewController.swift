@@ -23,5 +23,12 @@ struct PageViewController<Page: View>: UIViewControllerRepresentable {
         pageViewController.setViewControllers(
             [UIHostingController(rootView: pages[0])], direction: .forward, animated: true)
     }
-
+    
+    class Coordinator: NSObject {
+        var parent: PageViewController
+        
+        init(_ pageViewController: PageViewController) {
+            parent = pageViewController
+        }
+    }
 }
