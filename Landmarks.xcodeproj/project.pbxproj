@@ -60,6 +60,7 @@
 		50CF2FDB29F6D88D00289CBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50204ABF29F2EB400066496B /* Assets.xcassets */; };
 		50CF2FDD29F6D9B800289CBB /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2FDC29F6D9B800289CBB /* LandmarkDetail.swift */; };
 		50CF2FDF29F6E18B00289CBB /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2FDE29F6E18B00289CBB /* NotificationView.swift */; };
+		50CF2FE129F6E2A000289CBB /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2FE029F6E2A000289CBB /* NotificationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -106,6 +107,7 @@
 		50CF2FCB29F6D71C00289CBB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		50CF2FDC29F6D9B800289CBB /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		50CF2FDE29F6E18B00289CBB /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		50CF2FE029F6E2A000289CBB /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -280,6 +282,7 @@
 			children = (
 				50CF2FDC29F6D9B800289CBB /* LandmarkDetail.swift */,
 				50CF2FDE29F6E18B00289CBB /* NotificationView.swift */,
+				50CF2FE029F6E2A000289CBB /* NotificationController.swift */,
 				50CF2FC629F6D71B00289CBB /* ContentView.swift */,
 				50CF2FC829F6D71C00289CBB /* Assets.xcassets */,
 				50CF2FCA29F6D71C00289CBB /* Preview Content */,
@@ -448,6 +451,7 @@
 				50CF2FC729F6D71B00289CBB /* ContentView.swift in Sources */,
 				50CF2FD129F6D88D00289CBB /* Landmark.swift in Sources */,
 				50CF2FD929F6D88D00289CBB /* MapView.swift in Sources */,
+				50CF2FE129F6E2A000289CBB /* NotificationController.swift in Sources */,
 				50CF2FD729F6D88D00289CBB /* ModelData.swift in Sources */,
 				50CF2FDD29F6D9B800289CBB /* LandmarkDetail.swift in Sources */,
 				50CF2FDF29F6E18B00289CBB /* NotificationView.swift in Sources */,
