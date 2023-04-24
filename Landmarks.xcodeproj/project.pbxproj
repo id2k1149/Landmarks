@@ -41,6 +41,7 @@
 		50CF2F1C29F6B75D00289CBB /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F1B29F6B75D00289CBB /* ProfileEditor.swift */; };
 		50CF2F1F29F6BB4000289CBB /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F1E29F6BB4000289CBB /* PageViewController.swift */; };
 		50CF2F2129F6BD0600289CBB /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F2029F6BD0600289CBB /* FeatureCard.swift */; };
+		50CF2F2329F6BDF100289CBB /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CF2F2229F6BDF100289CBB /* PageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		50CF2F1B29F6B75D00289CBB /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		50CF2F1E29F6BB4000289CBB /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		50CF2F2029F6BD0600289CBB /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
+		50CF2F2229F6BDF100289CBB /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +235,7 @@
 			children = (
 				50CF2F1E29F6BB4000289CBB /* PageViewController.swift */,
 				50CF2F2029F6BD0600289CBB /* FeatureCard.swift */,
+				50CF2F2229F6BDF100289CBB /* PageView.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				508A116229F57EB400AC097C /* ProfileHost.swift in Sources */,
 				508A114D29F56D7200AC097C /* Hike.swift in Sources */,
 				508A114629F56A5E00AC097C /* RotatedBadgeSymbol.swift in Sources */,
+				50CF2F2329F6BDF100289CBB /* PageView.swift in Sources */,
 				508A114429F5697700AC097C /* BadgeSymbol.swift in Sources */,
 				50CF2F1C29F6B75D00289CBB /* ProfileEditor.swift in Sources */,
 				506DAECD29F49B9C001B0D12 /* LandmarkList.swift in Sources */,
